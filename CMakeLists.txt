@@ -7,3 +7,4 @@ project ("networking-test")
 
 # Include sub-projects.
 add_subdirectory ("server")
+add_subdirectory ("client")
